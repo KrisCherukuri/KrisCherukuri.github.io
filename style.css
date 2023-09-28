@@ -22,11 +22,10 @@ body{
     .bold{
         font-size:30px;
     }
-    
-    .points{
-    font-size:12px;
-    padding:6px;
-}
+     .points{
+         font-size:12px;
+         padding:6px;
+     }
 }
 
 @media (max-width:576px){
