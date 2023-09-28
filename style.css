@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=Dancing+Script&family=Martian+Mono:wght@200&display=swap');
+*{
+    line-height:1.7;
+}
+body{
+    font-family: 'Martian Mono', monospace;
+    padding:20px;
+    font-weight:400;
+    margin:20px;
+    font-size:12px;
+}
+
+.points{
+    padding:6px;
+}
+
+.bold{
+    font-size:20px;
+}
